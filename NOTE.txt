@@ -1,0 +1,41 @@
+# Upload de Arquivos:
+
+### API (ex: azure)
+
+### Banco de dados (ex: Cyclic)
+
+### Servidor de E-mail (ex: mailtrap)
+
+### Gateway (ex: Stripe)
+
+### Servidor de arquivos (ex: AWS S3)
+
+--- 
+
+## Serviços de Armazenamento
+- Amazon S3
+- Google Cloud Storage
+- Firebase Storage
+- S3-Compatible Storage
+- Digital Ocean Objective
+- Backblaze (10gb de Armazenamento grátis)
+
+---
+
+## AWS-SDK
+
+### É um conjunto de bibliotecas criado pela Amazon Web Services que 
+facilita a integração com seus serviços;
+
+## Bucket
+
+### É uma pasta ou recipiente que configuramos nos servidores de Armazenamento
+para armazenar os arquivos;
+
+---
+
+## Bibliteca multer
+
+- Funciona como um middleware
+
+## Biblioteca AWS SDK
